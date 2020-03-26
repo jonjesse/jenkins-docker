@@ -1,4 +1,4 @@
-#Change the groupID with your groupID
+#Change the _groupid with your groupID for docker group
 FROM jenkins/jenkins:lts
 USER root
 ARG _groupid=132
